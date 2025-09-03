@@ -38,8 +38,10 @@ response:
     episode: "RUBENS BARRICHELLO - Flow #339,
      videoId: "4KDGTdiOV4I"
     cover: "https://i.ytimg.com/vi/4KDGTdiOV4I/hq720.jpg",
-    link: "https://www.youtube.com/watch?v=yZdeH_P5Geo&ab_channel=FlowPodcast"
+    link: "https://www.youtube.com/watch?v=4KDGTdiOV4I&ab_channel"
     category: ["esporte", "corrida"]
 },
 
  ```
+
+ GET: retorna lista de episódios baseado em um parametro  enviado pelo cliente do nome do podcast

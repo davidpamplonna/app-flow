@@ -17,5 +17,11 @@
       "episode": "David - Flow #339",
       "videoId" : "0000",
       "category": ["esporte", "programação"]
+    },
+    {
+      "podcastName": "venus",
+      "episode": "Xuxa - Flow #339",
+      "videoId" : "0000",
+      "category": ["humor"]
     }
   ]
